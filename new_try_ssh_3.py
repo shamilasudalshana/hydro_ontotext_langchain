@@ -7,7 +7,7 @@ import io
 from contextlib import redirect_stdout
 
 # Set the environment variable `OPENAI_API_KEY` to your OpenAI API key
-os.environ["OPENAI_API_KEY"] = "sk-SWUJAUaBSPquWBiYOcBvHSONpilidzCeWhFLYe4jskT3BlbkFJ3x7jvBDuenooLo-7WwzEMcTHcoaxlpNTpLmxWootEA"
+os.environ["OPENAI_API_KEY"] = ".................................."
 
 os.environ["GRAPHDB_USERNAME"] = "admin"
 os.environ["GRAPHDB_PASSWORD"] = "abc123"
